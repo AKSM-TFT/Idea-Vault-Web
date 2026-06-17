@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* 
+  Global overrides if necessary, but Tailwind v4 
+  already handles most of the reset. 
+  Keeping it clean for the black and white theme.
+*/
+
+:root {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body {
+  margin: 0;
+  display: block;
+  min-width: 320px;
+  min-height: 100vh;
+}
