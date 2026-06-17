@@ -1,6 +1,6 @@
 # Idea Vault
 
-A full-stack personal idea management app. Capture, browse, and manage your project ideas — each stored with a title, summary, and full markdown content — backed by a REST API and a clean React UI.
+A full-stack personal idea management app. Capture, browse, and manage your project ideas — each stored with a title, summary, and full markdown content — backed by a REST API and a clean React UI. The ideas are generated via MCP server that can be connected to LLM such as Claude, Gemini, etc.
 
 ---
 
